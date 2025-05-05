@@ -31,3 +31,9 @@ Sun, May  4, 2025 11:23:03 PM:
  1 file changed, 4 insertions(+)
  tests:  0|0
 ecb321c
+Sun, May  4, 2025 11:23:51 PM: 
+ treemap.c | 6 +-----
+ 1 file changed, 1 insertion(+), 5 deletions(-)
+ tests:  13|5
+total_score: 25/70
+dbed6aa
